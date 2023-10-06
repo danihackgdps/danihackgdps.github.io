@@ -1,2 +1,2 @@
-# danihackgdps.github.io
+# Danihack GDPS
 Danihack GDPS website
